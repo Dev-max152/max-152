@@ -1,0 +1,8 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "Snap a photo of your homework and get instant, step-by-step explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
